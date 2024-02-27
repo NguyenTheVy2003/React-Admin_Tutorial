@@ -1,7 +1,7 @@
 import { Admin, Resource, ListGuesser, EditGuesser, ShowGuesser } from 'react-admin';
 
 import { dataProvider } from './dataProvider';
-import { UserList } from './users';
+import { UserList } from './Users';
 import { PostList,PostEdit,PostCreate } from './PostList';
 import PostIcon from "@mui/icons-material/Book";
 import UserIcon from "@mui/icons-material/Group";
